@@ -67,15 +67,23 @@ jobs:
 
             ### Installation (For Developers / Headless)
             ```bash
-            git clone https://github.com/${{ github.repository }}.git
-            cd ArcRift
             npx arcrift-setup
+            ```
+            ```bash
+            cd dashboard
+            npm install
+            ```
+            ```bash
+            cd backend
+            npm install
+            ```
+            ```bash
+            npm run dev:desktop #run command
             ```
 
             ### Load the Extension from Source
             **For Google Chrome / Edge / Brave:**
             1. Open `chrome://extensions`
-            2. Enable **Developer mode**
             3. **Load unpacked** → select `ARCRIFT/extension/dist/chrome`
             
             **For Mozilla Firefox:**
