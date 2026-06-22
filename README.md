@@ -108,7 +108,10 @@ If you want to modify the code, build the project yourself, or use the MCP Tools
 ```bash
 npx arcrift-setup
 ```
-This clones the repo, checks dependencies, pulls Ollama models, installs packages, and builds the backend.
+```bash
+copy .env.example .env
+```
+This clones the repo, checks dependencies, pulls Ollama models, installs packages, builds the backend, and sets up the env file.
 
 **2. Launching the Development Server**
 To launch the native desktop application in dev mode:
