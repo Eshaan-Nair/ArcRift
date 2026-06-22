@@ -118,6 +118,15 @@ To launch the native desktop application in dev mode:
 ```bash
 npm run dev:desktop
 ```
+or 
+```bash
+cd dashboard
+npm run dev
+```
+```bash
+cd backend
+npm run dev
+```
 This will start the backend seamlessly in the background and open the native ArcRift dashboard. When you close the window, it will minimize to your system tray. You can fully quit ArcRift from the tray menu.
 
 ### Web Extension Setup
