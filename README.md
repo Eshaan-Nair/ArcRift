@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/eshaan-nair-arcrift-badge.png)](https://mseep.ai/app/eshaan-nair-arcrift)
+
 <div align="center">
 
 # ArcRift — Persistent Memory for AI Coding Tools
