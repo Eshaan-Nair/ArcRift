@@ -1,5 +1,3 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/eshaan-nair-arcrift-badge.png)](https://mseep.ai/app/eshaan-nair-arcrift)
-
 <div align="center">
 
 # ArcRift — Persistent Memory for AI Coding Tools
@@ -711,4 +709,7 @@ MIT — see [LICENSE](LICENSE).
 
 *Built by [Eshaan Nair](https://github.com/Eshaan-Nair)*
 
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/eshaan-nair-arcrift-badge.png)](https://mseep.ai/app/eshaan-nair-arcrift)
+
 </div>
+
